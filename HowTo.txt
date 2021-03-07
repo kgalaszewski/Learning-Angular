@@ -1,0 +1,7 @@
+npm install -g @angular/cli   // pobiera angulara
+
+ng new Hello-World            // tworzy projekt o nazwie
+
+code . 			      // otwiera vs code z plikami projektu stworzonego
+
+ng serve  		      // odpala light serwer lokalnie z angularem 
