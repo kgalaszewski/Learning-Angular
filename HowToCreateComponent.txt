@@ -1,0 +1,7 @@
+ng g c nazwa // create component -> wazne, zeby uruchomic w bashu, w vsc mozna uzyc basha jako default
+
+if we dont use this command, we have to create some-name.component.ts and register it in app.module.ts
+
+example component : courses.component.ts, nazwa klasy : CoursesComponent
+
+Komponenty są używane tylko do prezentacji danych, można pisać unit testy

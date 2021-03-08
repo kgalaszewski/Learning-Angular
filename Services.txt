@@ -1,0 +1,11 @@
+w folderze po stworzeniu komponentu, gdzie np component nazywa sie maka-szaka.component.ts, czyli class Maka-szakaComponent
+
+serwis nazywamy maka-szaka.service.ts, tworzymy w tym samym folderze , czyli Maka-szakaService
+
+example : courses.service.ts : klasa CoursesService
+
+dzieki oddzieleniu takich serwisow od innej logiki, latwiej mozna pisac testy
+
+
+
+

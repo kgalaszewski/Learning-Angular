@@ -1,0 +1,15 @@
+showed in courses.component.ts constructor
+
+poza dodaniem parametru w konstruktorze, tak jak w C#, trzeba to gdzies zarejestrowac,
+w tym przypadku w app.module.ts w liscie providers
+
+it will be added as singleton
+
+to tez pomaga w testowaniu, bo mozna mockowac
+
+## GENEROWANIE SERWISU z poziomu konsoli
+
+ng g s nazwa
+
+it generates 2 files for us, first one for service.ts
+second one for unit tests
